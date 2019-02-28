@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CreatingVariables",
+            "request": "launch",
+            "mainClass": "CreatingVariables"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintingChoicesEscapes",
+            "request": "launch",
+            "mainClass": "PrintingChoicesEscapes"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - EscapeSequencesComments",
+            "request": "launch",
+            "mainClass": "EscapeSequencesComments"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PrintingChoices",
+            "request": "launch",
+            "mainClass": "PrintingChoices"
+        }
+    ]
+}
